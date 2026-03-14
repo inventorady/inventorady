@@ -25,7 +25,7 @@
 
 ## Connect with me
 
-🔗 LinkedIn: https://www.linkedin.com/in/adityavyas
+🔗 LinkedIn: https://www.linkedin.com/in/aditya-vyas-96349b3b7/
 
 
 
