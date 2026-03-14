@@ -10,6 +10,9 @@
 * SQL
 * DBMS
 * Data Structures
+
+
+
   ~>  currernt working on other languages
 
 ## Projects
