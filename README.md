@@ -1,7 +1,9 @@
  # Hi 👋 I'm Aditya
 
 🎓 MScIT Student
+
 💻 Currently learning C Programming and DBMS
+
 📊 Interested in Database Management and Software Development
 
 ## Skills
