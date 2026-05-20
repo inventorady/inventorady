@@ -1,37 +1,86 @@
- # Hi 👋 I'm Aditya
+ # Hi, I'm Aditya 👋
 
-🎓 MScIT Student
+🎓 MSc IT Student  
+💻 Passionate about Programming and Database Management  
+📚 Currently learning Data Structures, OOP and Advanced Programming Concepts  
 
-💻 Currently learning C Programming and DBMS
+---
 
-📊 Interested in Database Management and Software Development
+## 🚀 Skills
+- C Language
+- DBMS
+- SQL
+- Data Structures
+- Problem Solving
+- Git & GitHub
 
-## Skills
+---
 
-* C Programming
-* SQL
-* DBMS
-* Data Structures
+## 📌 Projects
 
+### 🔹 Student Management System (C Language)
+A console-based project to manage student records using C language.
 
+**Features:**
+- Add Student Record
+- Search Student
+- Update Details
+- Delete Record
 
-  ~>  currernt working on other languages
+---
 
-## Projects
+### 🔹 Library Management System
+A simple management system for handling library records.
 
-* Student Result Management System
-* Library Management System (DBMS)
-* Array Programs in C
-* pointer
-* UDF (user defined function)
+**Features:**
+- Issue Books
+- Return Books
+- Search Records
+- Maintain Database
 
-## Contact
+---
 
-🔗 LinkedIn: your-linkedin
+### 🔹 DBMS Practical Programs
+Collection of SQL queries and DBMS practical experiments.
 
-## Connect with me
+**Topics Covered:**
+- Joins
+- Normalization
+- Constraints
+- Triggers
+- Views
 
+---
+
+### 🔹 C Programming Collection
+A repository containing various C programs from basic to advanced level.
+
+**Programs Included:**
+- Arrays
+- Functions
+- Pointers
+- Structures
+- File Handling
+
+---
+
+## 🌱 Currently Learning
+- Data Structures in C
+- Object Oriented Programming
+- Database Optimization
+- GitHub Project Management
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/inventorady
 🔗 LinkedIn: https://www.linkedin.com/in/aditya-vyas-96349b3b7/
+---
+
+⭐ Always learning and improving my programming skills.
+
+
+
 
 
 
