@@ -2,7 +2,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=Hi+👋,+I'm+Aditya+Vyas!;🎓+MSc+IT+Student;🤖+Exploring+AI+Agents;💻+C+%26+C%2B%2B+Programmer;🚀+Future+Software+Engineer">
+</h1>
+
 
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 
@@ -15,6 +18,15 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right" width="250">
 
+<h3 align="center">
+🎓 MSc IT Student | 🤖 AI Agent Enthusiast | 💻 C & C++ Programmer
+</h3>
+
+<h3 align="center">
+🔥 Passionate about Tech, Coding & Growth
+</h3>
+
+<br>
 
 
 
