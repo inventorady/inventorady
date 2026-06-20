@@ -63,6 +63,7 @@
 
 <br/>
 ## 📊 GitHub Stats
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=inventorady&show_icons=true&theme=github_dark)
 
