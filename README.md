@@ -10,7 +10,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=Hi+👋,+I'm+Aditya+Vyas!;🎓+MSc+IT+Student;🤖+Exploring+AI+Agents;💻+C+%26+C%2B%2B+Programmer+DBMS+OOP+Data Structure;🚀+Bulding+Intelligent+Solution">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=Hi+👋,+I'm+Aditya+Vyas!;🎓+MSc+IT+Student;🤖+Exploring+AI+Agents;🚀+Bulding+Intelligent+Solution">
 </h1>
 
 <h3 align="center">
