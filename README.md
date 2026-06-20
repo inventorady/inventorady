@@ -5,6 +5,9 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" />
 
+![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
+
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=Hi+👋,+I'm+Aditya+Vyas!;🎓+MSc+IT+Student;🤖+Exploring+AI+Agents;💻+C+%26+C%2B%2B+Programmer;🚀+Future+Software+Engineer">
