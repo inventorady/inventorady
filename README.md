@@ -75,6 +75,38 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=inventorady&custom_title=Aditya%20Vyas's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=000000&title_color=00FFFF&area=true" alt="Aditya's GitHub Activity Graph" />
 
 </div>
+## 📫 Let's Connect!
+
+<table align="center">
+<thead>
+<tr>
+<th>Email</th>
+<th>LinkedIn</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+
+<td align="center">
+<a href="mailto:iam.vyasaditya@gmail.com" target="_blank">
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="80">
+<br>
+iam.vyasaditya@gmail.com
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/inventorady/" target="_blank">
+<img src="https://img.icons8.com/color/96/linkedin.png" width="80">
+<br>
+Aditya Vyas
+</a>
+</td>
+
+</tr>
+</tbody>
+</table>
 <div align="center">
 ⭐️ From [Aditya Vyas](https://github.com/inventorady) | Let's work and innovate together!
 
