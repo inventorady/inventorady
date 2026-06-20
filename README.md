@@ -61,6 +61,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=inventorady&layout=compact&theme=github_dark)
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=inventorady&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inventorady&theme=highcontrast&hide_border=true">
 
 
 <div align="center">
