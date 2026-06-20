@@ -118,7 +118,9 @@ Aditya Vyas
 </table>
 <div align="center">
 ⭐️ From [Aditya Vyas](https://github.com/inventorady) | Let's work and innovate together!
-<div align="center">
+
+  
+  <div align="center">
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" height="50px">
 </div>
 
