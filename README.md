@@ -54,6 +54,14 @@
   <img alt="snake eating my contributions" src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake-dark.svg" />
   <br/>
 </div>
+
+<h2>🟢 My LeetCode Problem Solving Profile </h2>
+
+![](https://leetcard.jacoblin.cool/inventorady?ext=heatmap)
+
+👉Click me to see view overall [Leetcode](https://leetcode.com/u/inventorady/) Profile
+
+<br/>
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=inventorady&show_icons=true&theme=github_dark)
