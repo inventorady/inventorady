@@ -6,15 +6,12 @@
 
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 
+
 <!-- <h1 align="center">Hi, I'm Aditya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=Hi+There!+👋+I'm+Aditya+Vyas!+👨‍💻;A+Msc+IT+Student+🫡;Mastery+in+C programming,+C++,+and+Data Structure & DBMS+✅" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=Hi+There!+👋+I'm+Karan+Gupta!+👨‍💻;A+Full+Stack+Software+Developer+🫡;Mastery+in+React,+Node,+and+ASP.NET+✅" />
 </h1>
-<h3 align="center">🎓 MSc IT Student | 🤖 AI Agent Developer | 💻 C & C++ Programmer | 🚀 Building Intelligent Solutions</h3>
-
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">🔥 Passionate about tech and growth</h3>
-
+<!-- <h3 align="center">I'm a passionate Full Stack Software Developer.</h3> -->
 
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right" width="250">
 
