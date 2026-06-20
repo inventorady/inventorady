@@ -1,22 +1,8 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=Hi+👋,+I'm+Aditya+Vyas!;🎓+MSc+IT+Student;🤖+Exploring+AI+Agents;💻+C+%26+C%2B%2B+Programmer;🚀+Future+Software+Engineer">
 </h1>
-
-
-![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
-
-
-<!-- <h1 align="center">Hi, I'm Aditya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> -->
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=Hi+There!+👋+I'm+Aditya+Vyas!+👨‍💻;A+Msc IT+Student+🫡;Mastery+in+C programming,+C ++,+and+DBMS+✅" />
-</h1>
-<!-- <h3 align="center">I'm a passionate TO GROW IN TECH WORLD.</h3> -->
-
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right" width="250">
 
 <h3 align="center">
 🎓 MSc IT Student | 🤖 AI Agent Enthusiast | 💻 C & C++ Programmer
@@ -28,7 +14,7 @@
 
 <br>
 
-
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Google Sheets Automation Projects**
 
