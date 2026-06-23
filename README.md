@@ -14,7 +14,7 @@
 </h1>
 
 <h3 align="center">
-🎓 MSc IT Student | 🤖 AI Agent Enthusiast | 💻 C & C++ Programmer
+🎓 MSc IT Student | 🤖 AI Agent Enthusiast 
 </h3>
 
 <h3 align="center">
