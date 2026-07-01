@@ -68,6 +68,14 @@
   <br/>
 </div>
 
+## 🥇 My Achievements
+
+<h3 align="center">My Github Badges</h3>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/UjjwalSaini07">
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/quickdraw-default.png?raw=true" width="100px" height="100px" />
+  </a>
+</div>
+
 <h2>🟢 My LeetCode Problem Solving Profile </h2>
 
 ![](https://leetcard.jacoblin.cool/inventorady?ext=heatmap)
