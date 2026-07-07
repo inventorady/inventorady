@@ -98,6 +98,8 @@
   <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/yolo-default.png?raw=true" width="100px" height="100px" />
   </a>
 </div>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
+
 
 <h2>🟢 My LeetCode Problem Solving Profile </h2>
 
