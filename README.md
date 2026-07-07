@@ -82,6 +82,7 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
 
+
   
   <h2>🐍 My Contributions with Snake Game: -</h2>
   <br>
@@ -99,6 +100,9 @@
   </a>
 </div>
 <a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
+<a href="my-badges/summer-solstice-commits.md"><img src="https://my-badges.github.io/my-badges/summer-solstice-commits.png" alt="I commit in the Summer solstice." title="I commit in the Summer solstice." width="64"></a>
+<a href="my-badges/winter-solstice-commits.md"><img src="https://my-badges.github.io/my-badges/winter-solstice-commits.png" alt="I commit in the Winter solstice." title="I commit in the Winter solstice." width="64"></a>
+
 
 
 <h2>🟢 My LeetCode Problem Solving Profile </h2>
