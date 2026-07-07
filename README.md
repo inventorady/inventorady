@@ -77,6 +77,9 @@
 
   <br/>
 
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+</a>
 
   
   <h2>🐍 My Contributions with Snake Game: -</h2>
