@@ -98,11 +98,10 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inventorady&theme=highcontrast&hide_border=true">
 
 
-<div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=inventorady&theme=highcontrast&hide_border=true" alt="Aditya's GitHub Streak" />
 
-  <br><br>
+
+
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=inventorady&custom_title=Aditya%20Vyas's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area_color=000000&title_color=00FFFF&area=true" alt="Aditya's GitHub Activity Graph" />
 
