@@ -83,7 +83,6 @@
 </a>
 
 
-  
   <h2>🐍 My Contributions with Snake Game: -</h2>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake-dark.svg" />
