@@ -92,11 +92,11 @@
 ## 🥇 My Achievements
 
 <h3 align="center">My Github Badges</h3>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/UjjwalSaini07">
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/quickdraw-default.png?raw=true" width="100px" height="100px" />
-   <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/pair-extraordinaire-default.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/yolo-default.png?raw=true" width="100px" height="100px" />
-    <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/pull-shark-default.png?raw=true" width="100px" height="100px" />
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/inventorady">
+  <img src="https://github.com/inventorady/inventorady/blob/main/Assets_Used/Github%20Badges/quickdraw-default.png?raw=true" width="100px" height="100px" />
+   <img src="https://github.com/inventorady/inventorady/blob/main/Assets_Used/Github%20Badges/pair-extraordinaire-default.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/inventorady/inventorady/blob/main/Assets_Used/Github%20Badges/yolo-default.png?raw=true" width="100px" height="100px" />
+    <img src="https://github.com/inventorady/inventorady/blob/main/Assets_Used/Github%20Badges/pull-shark-default.png?raw=true" width="100px" height="100px" />
 
   </a>
 </div>
