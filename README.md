@@ -97,9 +97,7 @@
    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="100px" height="100px" />
   <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100px" height="100px" />
     <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="100px" height="100px" />
-   <img src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" width="100px" height="100px" />
-   <img src="https://learn.microsoft.com/en-us/training/achievements/student-evangelism/introduction-to-git-badge.svg" width="100px" height="100px" />
-
+ 
   </a>
 </div>
 
@@ -107,6 +105,18 @@
 <a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
 <a href="my-badges/summer-solstice-commits.md"><img src="https://my-badges.github.io/my-badges/summer-solstice-commits.png" alt="I commit in the Summer solstice." title="I commit in the Summer solstice." width="64"></a>
 <a href="my-badges/winter-solstice-commits.md"><img src="https://my-badges.github.io/my-badges/winter-solstice-commits.png" alt="I commit in the Winter solstice." title="I commit in the Winter solstice." width="64"></a>
+
+## 🥇 My Microsoft Achievements
+
+<h3 align="center">My  Microsoft Badges and Achievements </h3>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href=https://learn.microsoft.com/en-in/users/me/achievements?tab=tab-modules#trophies-section">
+ <img src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" width="100px" height="100px" />
+   <img src="https://learn.microsoft.com/en-us/training/achievements/student-evangelism/introduction-to-git-badge.svg" width="100px" height="100px" />
+   <img src="https://learn.microsoft.com/en-us/training/achievements/github/contribute-to-an-open-source-project-on-github.svg" width="100px" height="100px" />
+
+  </a>
+</div>
+
 
 
 
