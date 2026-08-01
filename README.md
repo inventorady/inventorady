@@ -109,7 +109,7 @@
 ## 🥇 My Microsoft Achievements
 
 <h3 align="center">My  Microsoft Badges and Achievements </h3>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href=https://learn.microsoft.com/en-in/users/me/achievements?tab=tab-modules#trophies-section">
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://learn.microsoft.com/en-in/users/adityavyas-0696/">
  <img src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" width="100px" height="100px" />
    <img src="https://learn.microsoft.com/en-us/training/achievements/student-evangelism/introduction-to-git-badge.svg" width="100px" height="100px" />
    <img src="https://learn.microsoft.com/en-us/training/achievements/github/contribute-to-an-open-source-project-on-github.svg" width="100px" height="100px" />
