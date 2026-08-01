@@ -97,6 +97,8 @@
    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="100px" height="100px" />
   <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100px" height="100px" />
     <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="100px" height="100px" />
+   <img src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" width="100px" height="100px" />
+   <img src="https://learn.microsoft.com/en-us/training/achievements/student-evangelism/introduction-to-git-badge.svg" width="100px" height="100px" />
 
   </a>
 </div>
